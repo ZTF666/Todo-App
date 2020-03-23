@@ -1,6 +1,7 @@
 # Todo App
 
 A simple Todo app made with pure Php OOP and Sass and bootstrap.
+![Screenshot](ScrSh/Desc.gif)
 
 ## Table structure
 
