@@ -1,4 +1,4 @@
-# YuGiOh_Card_Lister_PHP
+# Todo App
 
 A simple Todo app made with pure Php OOP and Sass and bootstrap.
 
